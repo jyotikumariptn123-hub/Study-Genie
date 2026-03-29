@@ -48,3 +48,18 @@ Students can upload images of handwritten notes and generate questions from them
 
 • Voice-to-question feature
 Students can speak their notes and the system converts speech to text to generate questions.
+
+Technologies Used:
+- Artificial Intelligence
+- Natural Language Processing
+- Python / Web framework
+- Image to text processing
+- Speech to text
+
+Purpose:
+The goal of this project is to assist students in self-assessment and personalized learning.
+
+Future Improvements:
+- AI tutoring system
+- Performance analytics
+- Personalized question recommendations
