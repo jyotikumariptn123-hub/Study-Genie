@@ -163,6 +163,7 @@ By incorporating these improvements, Study Genie could evolve into a comprehensi
 ![WhatsApp Image 2026-03-29 at 11 25 33 AM (1)](https://github.com/user-attachments/assets/443d8b2a-ccec-414e-9c7a-903328483e7c)
 ## 8.Multiple Choice Questions
 <img width="1885" height="846" alt="Screenshot 2026-03-29 115321" src="https://github.com/user-attachments/assets/57b4ccec-2948-4258-b952-91b00f12a516" />
+
 ## 9.Matching Pairs
 ![WhatsApp Image 2026-03-29 at 11 25 36 AM (1)](https://github.com/user-attachments/assets/67377538-b195-4ef4-8072-26387473893a)
 ## 10.True or False Quiz
