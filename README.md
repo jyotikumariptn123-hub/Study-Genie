@@ -64,14 +64,14 @@ Future Improvements:
 - Performance analytics
 - Personalized question recommendations
 
-##Study Genie: An AI-Powered System for Automatic Question Generation and Student Progress Analysis
+## Study Genie: An AI-Powered System for Automatic Question Generation and Student Progress Analysis
 Abstract
 
 With the rapid growth of digital education, students require efficient tools to practice and evaluate their understanding of academic subjects. However, traditional learning systems often provide limited practice questions and lack personalized learning features. This project introduces Study Genie, an AI-powered educational application designed to automatically generate practice questions based on a student’s selected class level, subject topic, and difficulty level.
 
 The system supports multiple question formats including fill-in-the-blank, matching, true/false, short answer, and long answer questions. In addition to topic-based question generation, the platform allows students to generate questions from their handwritten notes using image recognition and from spoken explanations using speech-to-text processing. The system also tracks student performance and visualizes progress through graphical analysis. The goal of this project is to create a personalized and interactive learning environment that helps students improve their understanding and preparation for examinations. The Study Genie platform demonstrates how artificial intelligence and natural language processing technologies can enhance modern educational tools.
 
-##1. Introduction
+## 1. Introduction
 
 Technology has significantly transformed modern education by introducing digital learning platforms and intelligent tutoring systems. Despite these advancements, many students still face challenges when preparing for examinations due to limited access to personalized practice materials. Teachers and textbooks often provide only a fixed number of questions, which may not cover all difficulty levels or specific topics that students want to practice.
 
@@ -81,7 +81,7 @@ This research project introduces Study Genie, an AI-powered learning application
 
 The primary objective of this project is to support self-learning and improve student engagement by providing unlimited practice opportunities and intelligent feedback.
 
-##2. System Features
+## 2. System Features
 
 Study Genie provides several key features that enhance the learning experience and support effective exam preparation.
 
@@ -99,7 +99,7 @@ The platform also supports voice-based input. Students can explain their notes v
 
 These features make Study Genie a comprehensive tool for personalized learning and self-assessment.
 
-##3. Methodology
+## 3. Methodology
 
 The Study Genie system operates through a multi-step process that integrates artificial intelligence techniques with user interaction.
 
@@ -115,7 +115,7 @@ For note-based question generation, the system processes uploaded images using o
 
 Through this process, Study Genie combines artificial intelligence, text processing, and educational analytics to create an interactive learning experience.
 
-##4. Results and Benefits
+## 4. Results and Benefits
 
 The implementation of Study Genie demonstrates several advantages for students and educational environments.
 
@@ -129,7 +129,7 @@ The notes-to-question and voice-to-question features also help students convert 
 
 Overall, Study Genie supports self-directed learning and helps students develop stronger academic skills through continuous practice and progress monitoring.
 
-##5. Future Work
+## 5. Future Work
 
 Although Study Genie provides several useful features, there are opportunities for further development and improvement.
 
