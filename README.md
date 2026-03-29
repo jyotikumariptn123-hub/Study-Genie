@@ -190,3 +190,9 @@ By incorporating these improvements, Study Genie could evolve into a comprehensi
 
 ## 18.Recent Activity Log
 <img width="1874" height="780" alt="Screenshot 2026-03-29 115014" src="https://github.com/user-attachments/assets/ccc26fdf-1dc5-43fb-8b87-92ece7617503" />
+
+
+## Demo Video
+
+Watch the demo here:
+https://youtu.be/ohmdsRGKl1M
