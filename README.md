@@ -147,8 +147,8 @@ By incorporating these improvements, Study Genie could evolve into a comprehensi
 
 ## 1.Camera & Microphone Access
 <img width="1904" height="860" alt="Screenshot 2026-03-29 113549" src="https://github.com/user-attachments/assets/6bdc09d2-6c26-4d28-aba7-41baf3039381" />
-## 2.Sign Up / Login
 
+## 2.Sign Up / Login
 ![WhatsApp Image 2026-03-29 at 11 25 37 AM (2)](https://github.com/user-attachments/assets/6d6bc3c1-e6f7-439d-ae6b-9dbc14fbe13c)
 ![WhatsApp Image 2026-03-29 at 11 25 35 AM](https://github.com/user-attachments/assets/8451d1b6-55e0-4c1d-b376-c1f82d7c2bfb)
 ![WhatsApp Image 2026-03-29 at 11 25 34 AM (2)](https://github.com/user-attachments/assets/0fedfc3d-1458-48c6-8f25-ed24377b076f)
