@@ -196,3 +196,9 @@ By incorporating these improvements, Study Genie could evolve into a comprehensi
 
 Watch the demo here:
 https://youtu.be/ohmdsRGKl1M
+
+
+## Author
+
+Jyoti Kumari  
+Student Developer | AI & Education Technology Enthusiast
