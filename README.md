@@ -143,7 +143,7 @@ Additional features such as personalized study recommendations and detailed perf
 
 By incorporating these improvements, Study Genie could evolve into a comprehensive intelligent learning platform capable of supporting both students and educators.
 
-## Screenshot
+## Application Preview
 
 <img width="1904" height="860" alt="Screenshot 2026-03-29 113549" src="https://github.com/user-attachments/assets/6bdc09d2-6c26-4d28-aba7-41baf3039381" />
 
