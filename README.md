@@ -153,12 +153,17 @@ By incorporating these improvements, Study Genie could evolve into a comprehensi
 ![WhatsApp Image 2026-03-29 at 11 25 33 AM (2)](https://github.com/user-attachments/assets/3fd48fed-567e-4ffc-b9e5-f891dad9654b)
 ![WhatsApp Image 2026-03-29 at 11 25 33 AM](https://github.com/user-attachments/assets/f396e641-f1bb-4d7b-a2dd-14c86e8c4d15)
 ![WhatsApp Image 2026-03-29 at 11 25 33 AM (1)](https://github.com/user-attachments/assets/443d8b2a-ccec-414e-9c7a-903328483e7c)
+<img width="1885" height="846" alt="Screenshot 2026-03-29 115321" src="https://github.com/user-attachments/assets/57b4ccec-2948-4258-b952-91b00f12a516" />
+
 ![WhatsApp Image 2026-03-29 at 11 25 36 AM (1)](https://github.com/user-attachments/assets/67377538-b195-4ef4-8072-26387473893a)
 ![WhatsApp Image 2026-03-29 at 11 25 36 AM (2)](https://github.com/user-attachments/assets/9a246f6a-81ab-42c7-92d9-9561ce317e16)
 ![WhatsApp Image 2026-03-29 at 11 25 36 AM](https://github.com/user-attachments/assets/8dd56368-f0a8-441e-bcab-c86a0ac76c66)
+<img width="1819" height="855" alt="Screenshot 2026-03-29 115349" src="https://github.com/user-attachments/assets/c3af9ae3-a4ff-4a3c-80ec-9b1af44c0f29" />
+<img width="1885" height="457" alt="Screenshot 2026-03-29 115414" src="https://github.com/user-attachments/assets/1ea412fa-136e-426f-baca-0c38078c91d7" />
 
 ![WhatsApp Image 2026-03-29 at 11 25 34 AM (1)](https://github.com/user-attachments/assets/4848a863-4aea-4d0f-9a64-20ad5fec3cce)
 <img width="1868" height="741" alt="Screenshot 2026-03-29 113635" src="https://github.com/user-attachments/assets/ccbc662d-0bb5-4382-9475-b5957850ae1b" />
 
 ![WhatsApp Image 2026-03-29 at 11 25 35 AM (1)](https://github.com/user-attachments/assets/e97da60d-5f1d-43ae-aca7-183180a8f288)
 
+<img width="1874" height="780" alt="Screenshot 2026-03-29 115014" src="https://github.com/user-attachments/assets/ccc26fdf-1dc5-43fb-8b87-92ece7617503" />
