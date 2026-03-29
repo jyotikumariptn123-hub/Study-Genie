@@ -1,0 +1,5 @@
+{
+  "name": "Study Genie",
+  "description": "Generate comprehensive study questions (MCQ, True/False, Matching, Long/Short Answer) from your chapter notes or names.",
+  "requestFramePermissions": ["camera", "microphone"]
+}

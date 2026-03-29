@@ -1,0 +1,47 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "Stores user profile and academic goals.",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string", "description": "Unique identifier for the user." },
+        "email": { "type": "string", "description": "User's email address." },
+        "displayName": { "type": "string", "description": "User's display name." },
+        "onboardingComplete": { "type": "boolean", "description": "Whether the user has completed onboarding." },
+        "userRole": { "type": "string", "description": "User's role (Student, etc.)" },
+        "preparationGoal": { "type": "string", "description": "What the user is preparing for." },
+        "createdAt": { "type": "string", "format": "date-time", "description": "When the user account was created." }
+      },
+      "required": ["uid", "email"]
+    },
+    "QuizResult": {
+      "title": "QuizResult",
+      "description": "Stores the result of a single quiz session.",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string", "description": "The ID of the user who took the quiz." },
+        "chapterName": { "type": "string", "description": "The name of the chapter/topic." },
+        "difficulty": { "type": "string", "description": "The difficulty level of the quiz." },
+        "studentClass": { "type": "string", "description": "The class of the student." },
+        "score": { "type": "number", "description": "The percentage score achieved." },
+        "totalQuestions": { "type": "number", "description": "Total number of questions in the quiz." },
+        "correctAnswers": { "type": "number", "description": "Number of correct answers." },
+        "incorrectAnswers": { "type": "number", "description": "Number of incorrect answers." },
+        "completedAt": { "type": "string", "format": "date-time", "description": "When the quiz was completed." },
+        "areasForImprovement": { "type": "array", "items": { "type": "string" }, "description": "Topics or question types where the user struggled." }
+      },
+      "required": ["userId", "chapterName", "score", "totalQuestions", "completedAt"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "User profile and academic data."
+    },
+    "/users/{userId}/quizResults/{resultId}": {
+      "schema": "QuizResult",
+      "description": "Individual quiz results for the user."
+    }
+  }
+}
