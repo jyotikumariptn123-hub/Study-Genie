@@ -161,11 +161,13 @@ By incorporating these improvements, Study Genie could evolve into a comprehensi
 ![WhatsApp Image 2026-03-29 at 11 25 33 AM](https://github.com/user-attachments/assets/f396e641-f1bb-4d7b-a2dd-14c86e8c4d15)
 ## 7.Select Education Level 
 ![WhatsApp Image 2026-03-29 at 11 25 33 AM (1)](https://github.com/user-attachments/assets/443d8b2a-ccec-414e-9c7a-903328483e7c)
-## 8.
+## 8.Multiple Choice Questions
 <img width="1885" height="846" alt="Screenshot 2026-03-29 115321" src="https://github.com/user-attachments/assets/57b4ccec-2948-4258-b952-91b00f12a516" />
-
+## 9.Matching Pairs
 ![WhatsApp Image 2026-03-29 at 11 25 36 AM (1)](https://github.com/user-attachments/assets/67377538-b195-4ef4-8072-26387473893a)
+## 10.True or False Quiz
 ![WhatsApp Image 2026-03-29 at 11 25 36 AM (2)](https://github.com/user-attachments/assets/9a246f6a-81ab-42c7-92d9-9561ce317e16)
+## 11.Short Answer Questions
 ![WhatsApp Image 2026-03-29 at 11 25 36 AM](https://github.com/user-attachments/assets/8dd56368-f0a8-441e-bcab-c86a0ac76c66)
 <img width="1819" height="855" alt="Screenshot 2026-03-29 115349" src="https://github.com/user-attachments/assets/c3af9ae3-a4ff-4a3c-80ec-9b1af44c0f29" />
 <img width="1885" height="457" alt="Screenshot 2026-03-29 115414" src="https://github.com/user-attachments/assets/1ea412fa-136e-426f-baca-0c38078c91d7" />
