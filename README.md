@@ -150,7 +150,6 @@ By incorporating these improvements, Study Genie could evolve into a comprehensi
 ![WhatsApp Image 2026-03-29 at 11 25 37 AM (2)](https://github.com/user-attachments/assets/6d6bc3c1-e6f7-439d-ae6b-9dbc14fbe13c)
 ![WhatsApp Image 2026-03-29 at 11 25 34 AM (2)](https://github.com/user-attachments/assets/0fedfc3d-1458-48c6-8f25-ed24377b076f)
 \![WhatsApp Image 2026-03-29 at 11 25 35 AM](https://github.com/user-attachments/assets/8451d1b6-55e0-4c1d-b376-c1f82d7c2bfb)
-
 ![WhatsApp Image 2026-03-29 at 11 25 33 AM](https://github.com/user-attachments/assets/f396e641-f1bb-4d7b-a2dd-14c86e8c4d15)
 ![WhatsApp Image 2026-03-29 at 11 25 33 AM (1)](https://github.com/user-attachments/assets/443d8b2a-ccec-414e-9c7a-903328483e7c)
 ![WhatsApp Image 2026-03-29 at 11 25 33 AM (2)](https://github.com/user-attachments/assets/3fd48fed-567e-4ffc-b9e5-f891dad9654b)
