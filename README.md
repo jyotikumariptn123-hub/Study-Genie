@@ -65,7 +65,7 @@ Future Improvements:
 - Personalized question recommendations
 
 ## Study Genie: An AI-Powered System for Automatic Question Generation and Student Progress Analysis
-Abstract
+## *Abstract
 
 With the rapid growth of digital education, students require efficient tools to practice and evaluate their understanding of academic subjects. However, traditional learning systems often provide limited practice questions and lack personalized learning features. This project introduces Study Genie, an AI-powered educational application designed to automatically generate practice questions based on a student’s selected class level, subject topic, and difficulty level.
 
