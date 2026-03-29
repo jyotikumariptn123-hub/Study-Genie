@@ -172,6 +172,7 @@ By incorporating these improvements, Study Genie could evolve into a comprehensi
 ![WhatsApp Image 2026-03-29 at 11 25 36 AM](https://github.com/user-attachments/assets/8dd56368-f0a8-441e-bcab-c86a0ac76c66)
 ## 12.Long Answer Questions
 <img width="1819" height="855" alt="Screenshot 2026-03-29 115349" src="https://github.com/user-attachments/assets/c3af9ae3-a4ff-4a3c-80ec-9b1af44c0f29" />
+
 ## 13.Quiz Submission Summary
 <img width="1885" height="457" alt="Screenshot 2026-03-29 115414" src="https://github.com/user-attachments/assets/1ea412fa-136e-426f-baca-0c38078c91d7" />
 
