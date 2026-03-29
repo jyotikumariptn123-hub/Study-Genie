@@ -157,8 +157,11 @@ By incorporating these improvements, Study Genie could evolve into a comprehensi
 
 ## 5.Generate Study Material
 ![WhatsApp Image 2026-03-29 at 11 25 33 AM (2)](https://github.com/user-attachments/assets/3fd48fed-567e-4ffc-b9e5-f891dad9654b)
+## 6.Select Difficulty Level
 ![WhatsApp Image 2026-03-29 at 11 25 33 AM](https://github.com/user-attachments/assets/f396e641-f1bb-4d7b-a2dd-14c86e8c4d15)
+## 7.Select Education Level 
 ![WhatsApp Image 2026-03-29 at 11 25 33 AM (1)](https://github.com/user-attachments/assets/443d8b2a-ccec-414e-9c7a-903328483e7c)
+## 8.
 <img width="1885" height="846" alt="Screenshot 2026-03-29 115321" src="https://github.com/user-attachments/assets/57b4ccec-2948-4258-b952-91b00f12a516" />
 
 ![WhatsApp Image 2026-03-29 at 11 25 36 AM (1)](https://github.com/user-attachments/assets/67377538-b195-4ef4-8072-26387473893a)
